@@ -1,0 +1,81 @@
+export const sampleItems = [
+  {
+    id: 1,
+    name: "product one",
+    price: "59.99",
+    imageUrl: "https://picsum.photos/300/200",
+    // imageUr2: "https://picsum.photos/700/100",
+    save: false,
+    Category: "All",
+    descriptio: "Performance: fayyadamuun kee baay'ee gaarii dha.",
+    Phone  : "0955076549",
+    Gmail: "gamulaasmera@gmail.com",
+  },
+  {
+    id: 2,
+    name: "product two",
+    price: "9.99",
+    imageUrl: "https://picsum.photos/100/100",
+    // imageUr2: "https://picsum.photos/500/400",
+
+    save: false,
+    Category: "Villa",
+    
+    descriptio: " Performance:  fayyadamuun kee baay'ee gaarii dha.",
+
+    Phone: "0988776655",
+    Gmail: "gamulaasmera@gmail.com",
+  },
+  {
+    id: 3,
+    name: "product three",
+    price: "19.99",
+    imageUrl: "https://picsum.photos/700/200",
+     imageUr2: "https://picsum.photos/200/200",
+    save: true,
+    Category: "Apartment",
+    Phone: "098877665544",
+    descriptio: "Performance: fayyadamuun kee baay'ee gaarii dha.",
+    Gmail: "gamulaasmera@gmail.com",
+  },
+  {
+    id: 4,
+    name: "product four",
+    price: "29,99",
+    imageUrl: "https://picsum.photos/400/500",
+     imageUr2: "https://picsum.photos/200/100",
+    save: false,
+    Category: "House",
+    Phone: "0914794764",
+    descriptio: "Performance:  fayyadamuun kee baay'ee gaarii dhaa.",
+    Gmail: "gamulaasmera@gmail.com",
+  },
+  {
+    id: 5,
+    name: "product three",
+    price: "56.99",
+    imageUrl: "https://picsum.photos/800/200",
+    imageUr2: "https://picsum.photos/100/300",
+    save: true,
+    Category: "Condo",
+    Phone: "0912345567",
+    descriptio: "Performance:  fayyadamuun kee baay'ee gaarii dha.",
+    Gmail: "gamulaasmera@gmail.com",
+  },
+  {
+    id: 6,
+
+    name: "product four",
+    price: "77,99",
+    imageUrl: "https://picsum.photos/600/500",
+    imageUr2: "https://picsum.photos/500/100",
+    save: false,
+
+    Category: "Villa",
+    descriptio: "Performance:  fayyadamuun kee baay'ee gaarii dha.",
+    Phone: "",
+    Gmail: "gamulaasmera@gmail.com",
+  },
+];
+
+export default sampleItems;
